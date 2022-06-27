@@ -1,0 +1,10 @@
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe.config
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\bin\Debug\LinqToObject.exe
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\bin\Debug\LinqToObject.pdb
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\bin\Debug\Library.dll
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\bin\Debug\Library.pdb
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csproj.AssemblyReference.cache
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csproj.CoreCompileInputs.cache
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\obj\Debug\LinqToObject.csproj.CopyComplete
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\obj\Debug\LinqToObject.exe
+C:\Users\Main\Desktop\Net\LinqToObject\LinqToObject\obj\Debug\LinqToObject.pdb
